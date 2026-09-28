@@ -16,6 +16,7 @@ Currently, I'm strengthening my computer science fundamentals, with plans to bui
 
 ### 🚘 Hyundai Motor Company
 
+**Researcher**
 *2026 – Present*
 
 * Working on software quality for mobility services
