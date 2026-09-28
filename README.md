@@ -8,7 +8,8 @@ My experience spans academic research in routing optimization and real-world sof
 
 I'm interested in building reliable software systems and solving real-world problems through **software engineering and optimization**.
 
-I'm currently strengthening my computer science fundamentals, with plans to build full-stack applications and contribute to open-source projects.
+Currently, I'm strengthening my computer science fundamentals, with plans to build full-stack applications and contribute to open-source projects.
+
 ---
 
 ## 💼 Experience
