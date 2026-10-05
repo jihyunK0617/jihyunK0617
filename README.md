@@ -19,9 +19,6 @@ Currently, I'm strengthening my computer science fundamentals, with plans to bui
 **Researcher**
 *2026 – Present*
 
-* Working on software quality for mobility services
-* Testing and validating mobility and navigation-related systems
-* Analyzing service issues and software quality risks
 
 ### 📦 CJ Logistics
 
