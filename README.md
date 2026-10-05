@@ -30,7 +30,7 @@ Currently, I'm strengthening my computer science fundamentals, with plans to bui
 
 * Developed vehicle routing system using **Google OR-Tools**
 * Developed standardized routing components for logistics services
-* Built a web interface for dispatch operators using **React**
+* Built a web interface for dispatch operators
 * Applied routing optimization to real-world logistics operations
 
 ### 📱 (주)모비니티
